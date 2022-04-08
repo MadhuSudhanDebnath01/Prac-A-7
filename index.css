@@ -1,0 +1,41 @@
+.fabo{
+    background-color: rgb(12, 160, 110);
+    position: sticky;
+    z-index: 2;
+    top: 0px;
+    height: 30px;
+    width: 100%;
+    text-align: center;
+   font-weight: bolder;
+}
+.random{
+    height: 50px;
+    width: 50px;
+    border-radius: 0px 20px  20px;
+   z-index: 1;
+    background-color:red;
+    color: white;
+    text-align: center;
+   position:fixed;
+}
+.jio{
+    height: 100px;
+    width: 100px;
+    padding: 1rem;
+    background-color: blueviolet;
+}
+.item-container{
+    height: 200px;
+    width: 200px;
+    background-color:rgb(8, 247, 8);
+    position: relative;  
+}
+.item{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    padding: 1rem;
+    position: absolute;
+    color: white;
+    border-radius: 100px;
+}
